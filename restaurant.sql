@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 10, 2019 at 09:32 AM
+-- Generation Time: Mar 13, 2019 at 07:43 AM
 -- Server version: 10.1.31-MariaDB
 -- PHP Version: 7.1.16
 
@@ -141,7 +141,7 @@ CREATE TABLE `links` (
 --
 
 INSERT INTO `links` (`id`, `facebook`, `twitter`, `google`, `instagram`, `created_at`, `updated_at`) VALUES
-(1, 'https://www.facebook.com/', 'https://twitter.com/', 'https://www.google.com/', 'https://www.instagram.com/', NULL, '2019-01-23 19:13:00');
+(1, 'www.facebook.com', 'www.twitter.com', 'www.google.com', 'https://www.instagram.com/', NULL, '2019-01-23 19:13:00');
 
 -- --------------------------------------------------------
 
